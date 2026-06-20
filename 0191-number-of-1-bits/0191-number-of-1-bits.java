@@ -1,12 +1,16 @@
 class Solution {
     public int hammingWeight(int n) {
 
-        int count =0;
-        for( int i =31; i>=0; i--){
+        int count = 0;
 
-            // bit ko right shit kr ke right me lao and then usko 1 se and nikal kr check kro ki wo 1 ke barabar aaye to count ko badhao 
-            if( ((n>>i)&1)==1) count++;
+        while( n > 0){
+            // patter dekho jitna 1 bit hoga utna hi bar chale ga ye loop 
+            n=n&(n-1);
+            count++;
         }
-         return count;
+        return count;
     }
+
 }
+
+// Time complexity 0(no of 1 bit )
