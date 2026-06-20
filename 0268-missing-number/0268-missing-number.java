@@ -9,10 +9,11 @@ class Solution {
 
         // cal_sum
         int cal_sum=0;
-        for( int i=0; i<n; i++){
-            cal_sum+=nums[i];
-        }
         
+        for( int num:nums){
+            cal_sum+=num;
+        }
+
         return total_sum-cal_sum;
     }
 }
