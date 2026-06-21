@@ -14,3 +14,7 @@ class Solution {
         return ans;
     }
 }
+
+// 1. osbservation based intitution TimeComplexity is O(N)
+// 2. brute forces                  TimeCompledity is O(N^2)
+// 3. brute forces                  TimeComplexity is O(N^3)
