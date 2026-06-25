@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/wineerteam/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/wineerteam/DSA-LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/wineerteam/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/wineerteam/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/wineerteam/DSA-LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/wineerteam/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/wineerteam/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/wineerteam/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/wineerteam/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/wineerteam/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/wineerteam/DSA-LeetCode/tree/master/0338-counting-bits) |
