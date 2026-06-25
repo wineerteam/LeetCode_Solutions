@@ -17,7 +17,7 @@ class Solution {
     }
 }
 
-// 1. brute forces  Tc--o(n^3)
+        // 1. brute forces  Tc--o(n^3)
         // 2. we can better solution Tc--o(n^2)
         // 3. we can optimize this problem  Tc--o(n)
         // 4. Let me Explain it... 
