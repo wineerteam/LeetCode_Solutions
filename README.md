@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/wineerteam/DSA-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/wineerteam/DSA-LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/wineerteam/DSA-LeetCode/tree/master/1840-maximum-building-height) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/wineerteam/DSA-LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/wineerteam/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/wineerteam/DSA-LeetCode/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/wineerteam/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -80,8 +83,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/wineerteam/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/wineerteam/DSA-LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
