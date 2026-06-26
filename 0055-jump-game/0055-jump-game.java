@@ -1,17 +1,18 @@
 class Solution {
     public boolean canJump(int[] nums) {
 
-        int n=nums.length;
-        int max =0;
-        for( int i=0;i<n;i++){
-            
-            // aage nhi jane h.
-            if(i>max) return false;
-
-            // update maxireachable
-            max=Math.max(i+nums[i],max);
-        }
+        // one vairbale use so one d aray sufficent 
         
-        return true;
+        boolean arr[]=new boolean [nums.length];
+         arr[0]=true;
+        for( int i=1; i<nums.length;i++){
+            for( int k=i-1; k>=0; k--){
+                if(arr[k]==true && k+nums[k] >=i){
+                    arr[i]=true;
+                    break;
+                }
+            }
+        }
+        return arr[nums.length-1];
     }
 }
