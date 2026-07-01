@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/wineerteam/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/wineerteam/DSA-LeetCode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/wineerteam/DSA-LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0678-valid-parenthesis-string](https://github.com/wineerteam/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Hash Table
@@ -81,11 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/wineerteam/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0678-valid-parenthesis-string](https://github.com/wineerteam/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1189-maximum-number-of-balloons](https://github.com/wineerteam/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/wineerteam/DSA-LeetCode/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/wineerteam/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/wineerteam/DSA-LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/wineerteam/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
