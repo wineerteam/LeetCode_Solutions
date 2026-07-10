@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/wineerteam/DSA-LeetCode/tree/master/1840-maximum-building-height) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/wineerteam/DSA-LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/wineerteam/DSA-LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/wineerteam/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/wineerteam/DSA-LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/wineerteam/DSA-LeetCode/tree/master/0371-sum-of-two-integers) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/wineerteam/DSA-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/wineerteam/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/wineerteam/DSA-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/wineerteam/DSA-LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/wineerteam/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/wineerteam/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/wineerteam/DSA-LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Sorting
 |  |
@@ -86,10 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/wineerteam/DSA-LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/wineerteam/DSA-LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/wineerteam/DSA-LeetCode/tree/master/1840-maximum-building-height) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/wineerteam/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -102,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/wineerteam/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/wineerteam/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/wineerteam/DSA-LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -139,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/wineerteam/DSA-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/wineerteam/DSA-LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/wineerteam/DSA-LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
