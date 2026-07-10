@@ -28,3 +28,5 @@ public:
         return ans;
     }
 };
+
+// There is Time Complexity is o(N) ans Space Complexity is O(1);
