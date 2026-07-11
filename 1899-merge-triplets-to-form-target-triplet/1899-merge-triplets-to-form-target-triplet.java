@@ -13,3 +13,5 @@ class Solution {
         return maxValue[0]==target[0]&&maxValue[1]==target[1]&&maxValue[2]==target[2];
     }
 }
+
+// there is time Complexity is O(N) and Space complexity is  O(1)
