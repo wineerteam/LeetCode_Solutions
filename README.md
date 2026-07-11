@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/wineerteam/DSA-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1833-maximum-ice-cream-bars](https://github.com/wineerteam/DSA-LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/wineerteam/DSA-LeetCode/tree/master/1840-maximum-building-height) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/wineerteam/DSA-LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/wineerteam/DSA-LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/wineerteam/DSA-LeetCode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/wineerteam/DSA-LeetCode/tree/master/0846-hand-of-straights) |
 | [1833-maximum-ice-cream-bars](https://github.com/wineerteam/DSA-LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/wineerteam/DSA-LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort
 |  |
