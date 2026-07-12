@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/wineerteam/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/wineerteam/DSA-LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/wineerteam/DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/wineerteam/DSA-LeetCode/tree/master/0057-insert-interval) |
 | [0136-single-number](https://github.com/wineerteam/DSA-LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/0137-single-number-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/wineerteam/DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/wineerteam/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0846-hand-of-straights](https://github.com/wineerteam/DSA-LeetCode/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/wineerteam/DSA-LeetCode/tree/master/1288-remove-covered-intervals) |
