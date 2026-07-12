@@ -12,19 +12,19 @@ public:
        // no overlapping 
             if( last[1]<=intervals[i][0]){
                  last=intervals[i];
-                 i++;
+                //  i++;
             }
             else if( last[1] <= intervals[i][1]){
                 
                     cnt++;
-                    i++;
+                    // i++;
             }
             else if(last[1] > intervals[i][1]){
                 last=intervals[i];
                 cnt++;
-                i++;
+                // i++;
             }
-             
+             i++;
          }
     
      return cnt ;
