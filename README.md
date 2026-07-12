@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/wineerteam/DSA-LeetCode/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/wineerteam/DSA-LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/wineerteam/DSA-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/wineerteam/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/wineerteam/DSA-LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/wineerteam/DSA-LeetCode/tree/master/1840-maximum-building-height) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/wineerteam/DSA-LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/wineerteam/DSA-LeetCode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/wineerteam/DSA-LeetCode/tree/master/0846-hand-of-straights) |
 | [1189-maximum-number-of-balloons](https://github.com/wineerteam/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/wineerteam/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/wineerteam/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0846-hand-of-straights](https://github.com/wineerteam/DSA-LeetCode/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/wineerteam/DSA-LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/wineerteam/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/wineerteam/DSA-LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/wineerteam/DSA-LeetCode/tree/master/1840-maximum-building-height) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
