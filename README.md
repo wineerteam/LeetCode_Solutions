@@ -208,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/wineerteam/DSA-LeetCode/tree/master/2402-meeting-rooms-iii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/wineerteam/DSA-LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
