@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/wineerteam/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/wineerteam/DSA-LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/wineerteam/DSA-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/wineerteam/DSA-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/wineerteam/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/wineerteam/DSA-LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/wineerteam/DSA-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/wineerteam/DSA-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/wineerteam/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/wineerteam/DSA-LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/wineerteam/DSA-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/wineerteam/DSA-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/wineerteam/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/wineerteam/DSA-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/wineerteam/DSA-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/wineerteam/DSA-LeetCode/tree/master/2685-count-the-number-of-complete-components) |
