@@ -16,7 +16,7 @@ public:
         vector<int>vis(n,0);
         dfs(0,vis,rooms);
         for(auto it:vis){
-            if(it==0)return false;
+            if(it==false)return false;
         }
         return true;
     }
