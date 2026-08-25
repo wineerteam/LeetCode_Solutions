@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/wineerteam/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/wineerteam/DSA-LeetCode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/wineerteam/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2929-distribute-candies-among-children-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/2929-distribute-candies-among-children-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/wineerteam/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/wineerteam/DSA-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/wineerteam/DSA-LeetCode/tree/master/1291-sequential-digits) |
+| [2929-distribute-candies-among-children-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/2929-distribute-candies-among-children-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [2929-distribute-candies-among-children-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/2929-distribute-candies-among-children-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/wineerteam/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Monotonic Stack
 |  |
