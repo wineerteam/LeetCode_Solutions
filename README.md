@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/wineerteam/DSA-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/wineerteam/DSA-LeetCode/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/wineerteam/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2929-distribute-candies-among-children-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/2929-distribute-candies-among-children-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/wineerteam/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/wineerteam/DSA-LeetCode/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -363,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/wineerteam/DSA-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/wineerteam/DSA-LeetCode/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
