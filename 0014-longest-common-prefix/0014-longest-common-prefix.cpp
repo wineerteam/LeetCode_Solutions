@@ -18,3 +18,6 @@ public:
         return ans;
     }
 };
+//   The time complexity is O(n*m) and space complexity is Order O(1)
+// use tries then time complexity is redcuce and tc--- O(1) but space complexity is increase 
+// becasue insert tries all words then seach it 
