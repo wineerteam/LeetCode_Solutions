@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/wineerteam/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/wineerteam/DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/wineerteam/DSA-LeetCode/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/wineerteam/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/wineerteam/DSA-LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/wineerteam/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/wineerteam/DSA-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/wineerteam/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/wineerteam/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/wineerteam/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/wineerteam/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/wineerteam/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/wineerteam/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/wineerteam/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/wineerteam/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/wineerteam/DSA-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/wineerteam/DSA-LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
