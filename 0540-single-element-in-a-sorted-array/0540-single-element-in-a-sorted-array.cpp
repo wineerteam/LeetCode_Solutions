@@ -2,11 +2,12 @@ class Solution {
 public:
     int singleNonDuplicate(vector<int>& arr) {
 
-        int ans=arr[0];
-       for(int i=1; i<arr.size(); i++){
-            
-            ans=ans^arr[i];
-       }
-        return ans;
+       for(int i = 0; i < arr.size(); i += 2) {
+
+            if(i == arr.size() - 1 || arr[i] != arr[i + 1]) {
+                return arr[i];
+            }
+        }
+        return -1;
     }
 };
