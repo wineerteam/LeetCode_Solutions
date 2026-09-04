@@ -2,10 +2,14 @@
 class Solution {
     bool check(long long x,long  long h,vector<int>& arr){
         long long sum=0;
-        for(int i=0; i<arr.size(); i++){
         long long cnt=0;
-               sum+=(arr[i]+x-1)/x;
-               
+        for(int i=0; i<arr.size(); i++){
+       
+               cnt=arr[i]/x;
+               long long rem=arr[i]%x;
+               if( rem>0) cnt++;
+            
+                sum+=cnt;
             if( sum>h) return false;
         }
            
