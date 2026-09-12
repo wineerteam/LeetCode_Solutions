@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/wineerteam/DSA-LeetCode/tree/master/1840-maximum-building-height) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/wineerteam/DSA-LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/wineerteam/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/wineerteam/DSA-LeetCode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/wineerteam/DSA-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2402-meeting-rooms-iii](https://github.com/wineerteam/DSA-LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/wineerteam/DSA-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/wineerteam/DSA-LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/wineerteam/DSA-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/wineerteam/DSA-LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/wineerteam/DSA-LeetCode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/wineerteam/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
