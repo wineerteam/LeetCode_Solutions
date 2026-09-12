@@ -26,7 +26,6 @@ class Solution {
 
             else {
 
-                
                 if (mid >= 0)
                     cnt += b.size();
             }
