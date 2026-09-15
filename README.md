@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/wineerteam/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/wineerteam/DSA-LeetCode/tree/master/1840-maximum-building-height) |
+| [1922-count-good-numbers](https://github.com/wineerteam/DSA-LeetCode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/wineerteam/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2929-distribute-candies-among-children-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/2929-distribute-candies-among-children-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/wineerteam/DSA-LeetCode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/wineerteam/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/wineerteam/DSA-LeetCode/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/wineerteam/DSA-LeetCode/tree/master/1922-count-good-numbers) |
 ## Game Theory
 |  |
 | ------- |
