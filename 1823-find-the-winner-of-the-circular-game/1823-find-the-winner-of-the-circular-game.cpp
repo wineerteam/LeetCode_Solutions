@@ -2,17 +2,21 @@ class Solution {
 public:
     int findTheWinner(int n, int k) {
 
-        vector<int>a;
-        for(int i=1; i<=n; i++)
-        a.push_back(i);
+        // make a queue and maintain ke elemenent and then oepratiion occcred 
 
-        int i=0;
-        while(a.size()>1){
-            int idx=(i+k-1)%a.size();
-            a.erase(a.begin()+idx);
-            i=idx;
+        queue<int>q;
+        for(int i=1; i<=n; i++)
+            q.push(i);
+
+        while(q.size()>1){
+            // inser k-1 element
+            for(int i=0; i<k-1; i++){
+            q.push(q.front());
+            q.pop();
+            }
+
+        q.pop();
         }
-        return a[0];
-        
+        return q.front();
     }
 };
