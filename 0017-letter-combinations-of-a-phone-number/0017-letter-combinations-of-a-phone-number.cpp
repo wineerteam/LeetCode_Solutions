@@ -25,7 +25,7 @@ public:
         
         vector<string>ans;
         // base case the 
-        if( dgt.length()==0)return ans;
+        // if( dgt.length()==0)return ans;
 
 
         vector<string>mp={""," ","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
