@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/wineerteam/DSA-LeetCode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/wineerteam/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/wineerteam/DSA-LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/wineerteam/DSA-LeetCode/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/wineerteam/DSA-LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/wineerteam/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/wineerteam/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/wineerteam/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/wineerteam/DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/wineerteam/DSA-LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/wineerteam/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/wineerteam/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/wineerteam/DSA-LeetCode/tree/master/0763-partition-labels) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/wineerteam/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/wineerteam/DSA-LeetCode/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/wineerteam/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/wineerteam/DSA-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/wineerteam/DSA-LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/wineerteam/DSA-LeetCode/tree/master/0079-word-search) |
 | [0547-number-of-provinces](https://github.com/wineerteam/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/wineerteam/DSA-LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/wineerteam/DSA-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/wineerteam/DSA-LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/wineerteam/DSA-LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/wineerteam/DSA-LeetCode/tree/master/0079-word-search) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
