@@ -1,40 +1,36 @@
 class Solution {
-    void solve(vector<string>&mp, vector<string>&ans,string&dgt,string &curr,int i){
-        if( i==dgt.length()){
-            ans.push_back(curr);
-            return ;
+// Global Variable mention kiya h taki pass n krna pare okey 
+  vector<string>ans;
+  vector<string> arr;
 
-        }
-
-        // find the digit
-
-        int digit=dgt[i]-'0';
-        string latter=mp[digit];
-        for(char ch:latter){
-            curr.push_back(ch);
-            solve(mp,ans,dgt,curr,i+1);
-            curr.pop_back();
-
-        }
+// method 
+  void solve(int idx,string &s , string &temp){
+    if( idx==s.length()){
+        ans.push_back(temp);
+        return ;
     }
+
+    int  dgt=s[idx]-'0';
+    string str=arr[dgt];
+
+    for(int i=0; i<str.length(); i++){
+        temp.push_back(str[i]);
+        solve(idx+1,s,temp);
+        temp.pop_back();
+    }
+
+  }
 public:
-    vector<string> letterCombinations(string dgt) {
+    vector<string> letterCombinations(string s) {
 
+       string temp="";
+       arr={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
 
-        // find the 
-        
-        vector<string>ans;
-        // base case the 
-        // if( dgt.length()==0)return ans;
+       solve(0,s,temp);
 
-
-        vector<string>mp={""," ","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
-
-
-        string curr="";
-        solve(mp,ans,dgt,curr,0);
-        return ans;
-
+       return ans;
         
     }
 };
+
+// time complexity is O(4^N*N) 
