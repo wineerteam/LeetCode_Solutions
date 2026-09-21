@@ -1,27 +1,27 @@
 class Solution {
-public:
-void solve(vector<int>& arr, vector<vector<int>>&ans,vector<int>curr,int i ){
-    
-    // base condition 
-    if( i==arr.size()){
-        ans.push_back(curr);
-        return;
+    vector<vector<int>>ans;
+    void solve(vector<int>&arr, int i, vector<int>&temp){
+               
+               // base case 
+                if(i>=arr.size()){
+                    ans.push_back(temp);
+                    return;
+
+                }
+
+                // take 
+                temp.push_back(arr[i]);
+                solve(arr,i+1,temp);
+                temp.pop_back();
+                solve(arr,i+1,temp);
+                
+
     }
-    curr.push_back(arr[i]);
-    // take 
-    solve(arr,ans,curr,i+1);
-  
-
-   curr.pop_back();
-    //  non-take
-    solve(arr,ans,curr,i+1);
-
-}
 public:
     vector<vector<int>> subsets(vector<int>& arr) {
-        vector<vector<int>>ans;
-        vector<int>curr;
-        solve(arr,ans,curr,0);
+        vector<int>temp;
+        solve(arr,0,temp)
         return ans;
+        
     }
 };
