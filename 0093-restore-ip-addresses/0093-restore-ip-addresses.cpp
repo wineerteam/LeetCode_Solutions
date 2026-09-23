@@ -36,7 +36,7 @@ public:
     vector<string> restoreIpAddresses(string s) {
         ans.clear();
          n=s.length();
-        // if( n>12) return ans ;
+        if( n<3 || n>12) return ans ;
         string temp="";
         int parts=0;
         solve(s,0,temp,parts);
