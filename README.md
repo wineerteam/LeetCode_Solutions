@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/wineerteam/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/wineerteam/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/wineerteam/DSA-LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/wineerteam/DSA-LeetCode/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/wineerteam/DSA-LeetCode/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/wineerteam/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/wineerteam/DSA-LeetCode/tree/master/0198-house-robber) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/wineerteam/DSA-LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/wineerteam/DSA-LeetCode/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/wineerteam/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/wineerteam/DSA-LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/wineerteam/DSA-LeetCode/tree/master/0486-predict-the-winner) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/wineerteam/DSA-LeetCode/tree/master/0062-unique-paths) |
 | [2929-distribute-candies-among-children-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/2929-distribute-candies-among-children-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/wineerteam/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/wineerteam/DSA-LeetCode/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
