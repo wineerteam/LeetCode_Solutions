@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/wineerteam/DSA-LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/wineerteam/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/wineerteam/DSA-LeetCode/tree/master/0509-fibonacci-number) |
+| [0576-out-of-boundary-paths](https://github.com/wineerteam/DSA-LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0678-valid-parenthesis-string](https://github.com/wineerteam/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/wineerteam/DSA-LeetCode/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/wineerteam/DSA-LeetCode/tree/master/0877-stone-game) |
