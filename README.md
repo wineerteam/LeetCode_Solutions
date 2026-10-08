@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/wineerteam/DSA-LeetCode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/wineerteam/DSA-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2402-meeting-rooms-iii](https://github.com/wineerteam/DSA-LeetCode/tree/master/2402-meeting-rooms-iii) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/wineerteam/DSA-LeetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/wineerteam/DSA-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/wineerteam/DSA-LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/wineerteam/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/wineerteam/DSA-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/wineerteam/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/1463-cherry-pickup-ii) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/wineerteam/DSA-LeetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/wineerteam/DSA-LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/wineerteam/DSA-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/wineerteam/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/wineerteam/DSA-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/1463-cherry-pickup-ii) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/wineerteam/DSA-LeetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/wineerteam/DSA-LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
