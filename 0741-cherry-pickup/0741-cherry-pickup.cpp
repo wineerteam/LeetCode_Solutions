@@ -1,44 +1,61 @@
 
 class Solution {
-    int n, m;
-    int  dp[51][51][51];
-
-    int solve(vector<vector<int>>& arr, int r1, int r2, int c1) {
-
-        int c2 = r1 + c1 - r2;
-
-        if (r1 >= n || r2 >= n || c1 >= m || c2 >= m)
-            return -1e9;
-
-        if (arr[r1][c1] == -1 || arr[r2][c2] == -1)
-            return -1e9;
-
-            if( dp[r1][r2][c1] !=-1) return dp[r1][r2][c1];
-
-        if (r1 == n - 1 && c1 == m - 1 )
-            return arr[r1][c1];
-
-        int ans = arr[r1][c1];
-
-        if (r1 != r2 )
-            ans += arr[r2][c2];
-
-        int a = solve(arr, r1, r2, c1 + 1);
-        int b = solve(arr, r1 + 1, r2, c1);
-        int c = solve(arr, r1, r2 + 1, c1 + 1);
-        int d = solve(arr, r1 + 1, r2 + 1, c1);
-
-        return dp[r1][r2][c1]= ans + max({a, b, c, d});
-    }
-
 public:
     int cherryPickup(vector<vector<int>>& arr) {
-        n = arr.size();
-        m = arr[0].size();
-        memset(dp,-1,sizeof(dp));
+        int n = arr.size();
 
-        return  max(0,solve(arr, 0, 0, 0));
+        int dp[51][51][51];
 
-        
+        // Initialize all states as invalid
+        for (int i = 0; i < 51; i++)
+            for (int j = 0; j < 51; j++)
+                for (int k = 0; k < 51; k++)
+                    dp[i][j][k] = -1e9;
+
+        dp[n-1][n-1][n-1] = arr[n-1][n-1];
+
+        for (int r1 = n-1; r1 >= 0; r1--) {
+            for (int c1 = n-1; c1 >= 0; c1--) {
+                for (int r2 = n-1; r2 >= 0; r2--) {
+
+                    int c2 = r1 + c1 - r2;
+
+                    if (r2 >= n || c2 < 0 || c2 >= n)
+                        continue;
+
+                    if (arr[r1][c1] == -1 ||
+                        arr[r2][c2] == -1)
+                        continue;
+
+                    if (r1 == n-1 && c1 == n-1)
+                        continue;
+
+                    int cherries = arr[r1][c1];
+
+                    if (r1 != r2)
+                        cherries += arr[r2][c2];
+
+                    int a = -1e9, b = -1e9;
+                    int c = -1e9, d = -1e9;
+
+                    if (c1+1 < n)
+                        a = dp[r1][r2][c1+1];
+
+                    if (r1+1 < n)
+                        b = dp[r1+1][r2][c1];
+
+                    if (r2+1 < n)
+                        c = dp[r1][r2+1][c1+1];
+
+                    if (r1+1 < n && r2+1 < n)
+                        d = dp[r1+1][r2+1][c1];
+
+                    dp[r1][r2][c1] =
+                        cherries + max({a, b, c, d});
+                }
+            }
+        }
+
+        return max(0, dp[0][0][0]);
     }
 };
