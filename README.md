@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/wineerteam/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/wineerteam/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0740-delete-and-earn](https://github.com/wineerteam/DSA-LeetCode/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/wineerteam/DSA-LeetCode/tree/master/0741-cherry-pickup) |
 | [0846-hand-of-straights](https://github.com/wineerteam/DSA-LeetCode/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/wineerteam/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/wineerteam/DSA-LeetCode/tree/master/0877-stone-game) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0576-out-of-boundary-paths](https://github.com/wineerteam/DSA-LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0678-valid-parenthesis-string](https://github.com/wineerteam/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/wineerteam/DSA-LeetCode/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/wineerteam/DSA-LeetCode/tree/master/0741-cherry-pickup) |
 | [0877-stone-game](https://github.com/wineerteam/DSA-LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/wineerteam/DSA-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/wineerteam/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/wineerteam/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/wineerteam/DSA-LeetCode/tree/master/0079-word-search) |
+| [0741-cherry-pickup](https://github.com/wineerteam/DSA-LeetCode/tree/master/0741-cherry-pickup) |
 | [1260-shift-2d-grid](https://github.com/wineerteam/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/wineerteam/DSA-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/1463-cherry-pickup-ii) |
