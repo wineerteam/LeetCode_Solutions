@@ -1,34 +1,31 @@
 class Solution {
+    bool solve(vector<int>& arr, int tar, int i,
+               vector<vector<int>>& dp) {
+
+        if (tar == 0) return true;
+        if (tar < 0 || i >= arr.size()) return false;
+
+        if (dp[i][tar] != -1)
+            return dp[i][tar];
+
+        bool take = solve(arr, tar - arr[i], i + 1, dp);
+        bool ntake = solve(arr, tar, i + 1, dp);
+
+        return dp[i][tar] = take || ntake;
+        
+    }
+
 public:
-    int t[201][200*100+1];
-    bool solve(vector<int>& arr,int i,int x){
-        // base case
-        if( x == 0) return true;
+    bool canPartition(vector<int>& arr) {
+        int n = arr.size();
+        int sum = accumulate(arr.begin(), arr.end(), 0);
 
-        if( i>=arr.size()) return false;
-        
-        if( t[i][x] != -1) return t[i][x];
+        if (sum % 2 != 0) return false;
 
-        // take  and non_take
-        bool take=false;
-        if(x >= arr[i])
-         take=(i+1<=arr.size())&&solve(arr,i+1,x-arr[i]);
+        int target = sum / 2;
 
-        bool ntake=(i+1<=arr.size())&&solve(arr,i+1,x);
+        vector<vector<int>> dp(n, vector<int>(target + 1, -1));
 
-            return t[i][x]=take||ntake;
-        
-    }
-    bool canPartition(vector<int>& nums) {
-    memset(t, -1,sizeof(t));
-    int sum =0;
-    for( int num:nums){
-        sum+=num;
-    }
-    int x =sum/2;
-    if( sum%2 !=0)return false;
-    
-    return solve(nums,0,x);
-        
+        return solve(arr, target, 0, dp);
     }
 };
