@@ -1,31 +1,29 @@
+
 class Solution {
-    bool solve(vector<int>& arr, int tar, int i,
-               vector<vector<int>>& dp) {
-
-        if (tar == 0) return true;
-        if (tar < 0 || i >= arr.size()) return false;
-
-        if (dp[i][tar] != -1)
-            return dp[i][tar];
-
-        bool take = solve(arr, tar - arr[i], i + 1, dp);
-        bool ntake = solve(arr, tar, i + 1, dp);
-
-        return dp[i][tar] = take || ntake;
-        
-    }
-
 public:
     bool canPartition(vector<int>& arr) {
         int n = arr.size();
-        int sum = accumulate(arr.begin(), arr.end(), 0);
+        int tsum = accumulate(arr.begin(), arr.end(), 0);
 
-        if (sum % 2 != 0) return false;
-
-        int target = sum / 2;
-
-        vector<vector<int>> dp(n, vector<int>(target + 1, -1));
-
-        return solve(arr, target, 0, dp);
+        if (tsum % 2 != 0) return false;
+        int target = tsum / 2;
+        vector<bool>prev(target+1,false);
+        vector<bool>cur(target+1,false);
+        prev[0] = true;
+        for (int i = 1; i <= n; i++) {
+            cur[0] = true;
+            for (int j = 1; j <= target; j++) {
+                bool ntake = prev[j];
+                bool take = false;
+                if (arr[i - 1] <= j)
+                    take = prev[j - arr[i - 1]];
+                cur[j] = take || ntake;
+            }
+            prev = cur;
+        }
+        return prev[target];
     }
 };
+
+
+// space ooptimization  
