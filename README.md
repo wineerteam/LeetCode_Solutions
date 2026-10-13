@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/wineerteam/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/wineerteam/DSA-LeetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/wineerteam/DSA-LeetCode/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/wineerteam/DSA-LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/wineerteam/DSA-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
