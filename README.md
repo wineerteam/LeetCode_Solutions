@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/wineerteam/DSA-LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/wineerteam/DSA-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/wineerteam/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1388-pizza-with-3n-slices](https://github.com/wineerteam/DSA-LeetCode/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/wineerteam/DSA-LeetCode/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/wineerteam/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/1463-cherry-pickup-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/wineerteam/DSA-LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/wineerteam/DSA-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1388-pizza-with-3n-slices](https://github.com/wineerteam/DSA-LeetCode/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/wineerteam/DSA-LeetCode/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/wineerteam/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/1463-cherry-pickup-ii) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/wineerteam/DSA-LeetCode/tree/master/0846-hand-of-straights) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/wineerteam/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/wineerteam/DSA-LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1388-pizza-with-3n-slices](https://github.com/wineerteam/DSA-LeetCode/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/wineerteam/DSA-LeetCode/tree/master/1402-reducing-dishes) |
 | [1833-maximum-ice-cream-bars](https://github.com/wineerteam/DSA-LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/wineerteam/DSA-LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1388-pizza-with-3n-slices](https://github.com/wineerteam/DSA-LeetCode/tree/master/1388-pizza-with-3n-slices) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/wineerteam/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/wineerteam/DSA-LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/wineerteam/DSA-LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
