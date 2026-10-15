@@ -1,43 +1,32 @@
 class Solution {
 public:
     int maxSumDivThree(vector<int>& arr) {
-        vector<int>r1,r2;
-        int sum=0;
+
+        int n =arr.size();
+        vector<vector<int>>dp(arr.size()+1,vector<int>(3,INT_MIN));
+        for(int i=0; i<dp.size();i++ ){
+                dp[i][0]=0;
+        }
+
+        for(int i=1; i<=n; i++){
+        for(int j=0; j<dp[0].size(); j++)
+        {
+            int ntake=dp[i-1][j];
+           int rem = (j - arr[i - 1] % 3 + 3) % 3;
+
+                int take = INT_MIN;
+
+                if(dp[i - 1][rem] != INT_MIN) {
+                    take = arr[i - 1] + dp[i - 1][rem];
+                }
+
         
-        for(int num:arr){
-            sum +=num;
-            if(num % 3==1){
-                r1.push_back(num);
+            dp[i][j]=max(take,ntake);
             }
-            else if(num % 3==2)
-            r2.push_back(num);
-
         }
-        sort(r1.begin(),r1.end());
-        sort(r2.begin(),r2.end());
-        int rem=sum % 3;
-    
+
+
+        return dp[n][0];
         
-        if(rem==0)
-        return sum;
-           
-        int remove=INT_MAX;
-
-        if(rem==1){
-            if(!r1.empty())
-            remove=min(remove,r1[0]);
-
-            if(r2.size()>=2)
-            remove=min(remove,r2[0]+r2[1]);
-        }
-        else{
-            if(!r2.empty())
-            remove=min(remove,r2[0]);
-            if(r1.size()>=2)
-            remove=min(remove,r1[0]+r1[1]);
-        }
-    
-
-        return sum-remove;
     }
 };
