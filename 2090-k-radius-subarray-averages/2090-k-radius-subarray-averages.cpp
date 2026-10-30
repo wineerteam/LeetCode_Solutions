@@ -17,8 +17,6 @@ public:
         
         ans[k]=wsum/window;
 
-
-    
         for(int i=k+1; i<n-k; i++){
            wsum+=arr[i+k]-arr[i-k-1];
            ans[i]=wsum/window;
@@ -28,3 +26,5 @@ public:
         return ans;
     }
 };
+
+// using sliding window optimze space o(N ) to O(1)
