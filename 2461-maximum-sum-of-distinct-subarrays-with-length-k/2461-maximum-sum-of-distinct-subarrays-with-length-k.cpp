@@ -3,26 +3,29 @@ class Solution {
 public:
     long long maximumSubarraySum(vector<int>& arr, int k) {
         int n=arr.size();
-        ll ans=0,temp=0;
-        unordered_map<int,int>freq;
-        for(int i=0; i<k; i++){
-            temp+=arr[i];
-            freq[arr[i]]++;
-        }
-        if( freq.size()==k)ans=temp;
-        for(int i=k; i<n; i++){
-            temp+=arr[i]-arr[i-k];
-            freq[arr[i]]++;
-            freq[arr[i-k]]--;
-            if(freq[arr[i-k]]==0)
-            freq.erase(arr[i-k]);
-            if(freq.size() == k)
-            {
-                if( ans<temp)ans=temp;
-            }
-        }
-       
+       unordered_set<int> st;
+       ll ans=0,sum=0,j=0;
+       for(int i=0; i<n; i++){
+        //check current element absent in set dublicate
+        while(st.find(arr[i]) != st.end()){
+       //jb tk dublicate remove j ko move kro i tk
+                sum-=arr[j];
+               st.erase(arr[j]);
+               j++;
+               
+               
+         }
+         sum+=arr[i];
+         st.insert(arr[i]);
+         
 
-        return ans;
+        if( i-j+1==k){
+            if(ans<sum)ans=sum;
+            sum-=arr[j];
+            st.erase(arr[j]);
+            j++;
+        }
+       }
+       return ans;
     }
 };
