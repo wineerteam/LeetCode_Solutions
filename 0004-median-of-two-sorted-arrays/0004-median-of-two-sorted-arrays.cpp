@@ -1,34 +1,45 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        double ans=0;
-        int n=nums1.size();
-        int m=nums2.size();
 
-        vector<int>a(n+m);
+            if(nums1.size()>nums2.size()) return findMedianSortedArrays(nums2,nums1);
 
-        int i=0,j=0,k=0;
-        while(i<n && j<m){
-            
-            if(nums1[i] <= nums2[j]){
-                a[k++]=nums1[i++];
+            int m=nums1.size();
+            int n=nums2.size();
+
+            int l=0;
+            int r=m;
+
+            while(l<=r){
+                int px= l+(r-l)/2;
+                int py= (m+n+1)/2-px;
+
+                int x1=(px==0)?INT_MIN:nums1[px-1];
+                int x2=(py==0)?INT_MIN:nums2[py-1];
+
+                // right side need max
+                int x3=(px==m)?INT_MAX:nums1[px];
+                int x4=(py==n)?INT_MAX:nums2[py];
+
+                if(x1<=x4 && x2<=x3){
+                    if((m+n)%2==1){
+                        return max(x1,x2);
+                    }
+                    else{
+                        return (max(x1,x2)+min(x3,x4))/2.0;
+                    }
+                }
+
+                if(x1>x4)
+                {
+                    r=px-1;
+                }
+                else{
+                    l=px+1;
+                }
+
             }
-            else
-                a[k++]=nums2[j++];
-             
-        }
-        while(i<n){
-            a[k++]=nums1[i++];
-        }
-        while(j<m){
-            a[k++]=nums2[j++];
-        }
-
-        n=a.size();
-
-       
-        ans=(n%2==1)?(a[n/2]):(a[n/2]+a[(n/2)-1])/2.0;
-
-        return ans;
+        
+        return -1;
     }
 };
