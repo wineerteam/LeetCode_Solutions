@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/wineerteam/DSA-LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/wineerteam/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/wineerteam/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/wineerteam/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/wineerteam/DSA-LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/wineerteam/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -573,8 +574,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/wineerteam/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/wineerteam/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/wineerteam/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/wineerteam/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/wineerteam/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
