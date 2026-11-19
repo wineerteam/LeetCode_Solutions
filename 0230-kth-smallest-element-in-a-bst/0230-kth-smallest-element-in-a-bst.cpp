@@ -12,7 +12,7 @@
 class Solution {
 public:
     int kthSmallest(TreeNode* root, int k) {
-
+        if( root == NULL)return NULL;
         vector<int>ans;
         helper(root,ans);
         return ans[k-1];
