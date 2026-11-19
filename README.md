@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/wineerteam/DSA-LeetCode/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/wineerteam/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/wineerteam/DSA-LeetCode/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/wineerteam/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/wineerteam/DSA-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/wineerteam/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/wineerteam/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/wineerteam/DSA-LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/wineerteam/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
+| [0973-k-closest-points-to-origin](https://github.com/wineerteam/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/wineerteam/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/wineerteam/DSA-LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/wineerteam/DSA-LeetCode/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/wineerteam/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/wineerteam/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/wineerteam/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/wineerteam/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/wineerteam/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/wineerteam/DSA-LeetCode/tree/master/0846-hand-of-straights) |
+| [0973-k-closest-points-to-origin](https://github.com/wineerteam/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/wineerteam/DSA-LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/wineerteam/DSA-LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/wineerteam/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/wineerteam/DSA-LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/wineerteam/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/wineerteam/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1388-pizza-with-3n-slices](https://github.com/wineerteam/DSA-LeetCode/tree/master/1388-pizza-with-3n-slices) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/wineerteam/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/wineerteam/DSA-LeetCode/tree/master/2402-meeting-rooms-iii) |
@@ -613,4 +618,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/wineerteam/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/wineerteam/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/wineerteam/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/wineerteam/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
