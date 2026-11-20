@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/wineerteam/DSA-LeetCode/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/wineerteam/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/wineerteam/DSA-LeetCode/tree/master/0877-stone-game) |
+| [1092-shortest-common-supersequence](https://github.com/wineerteam/DSA-LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/wineerteam/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/wineerteam/DSA-LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/wineerteam/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/wineerteam/DSA-LeetCode/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/wineerteam/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1092-shortest-common-supersequence](https://github.com/wineerteam/DSA-LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/wineerteam/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/wineerteam/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/wineerteam/DSA-LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -667,5 +669,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/wineerteam/DSA-LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/wineerteam/DSA-LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/wineerteam/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
