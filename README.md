@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/wineerteam/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/wineerteam/DSA-LeetCode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/wineerteam/DSA-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wineerteam/DSA-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/wineerteam/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/wineerteam/DSA-LeetCode/tree/master/0198-house-robber) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/wineerteam/DSA-LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/wineerteam/DSA-LeetCode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/wineerteam/DSA-LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/wineerteam/DSA-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/wineerteam/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/wineerteam/DSA-LeetCode/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/wineerteam/DSA-LeetCode/tree/master/0583-delete-operation-for-two-strings) |
