@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/wineerteam/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/wineerteam/DSA-LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/wineerteam/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/wineerteam/DSA-LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/wineerteam/DSA-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1388-pizza-with-3n-slices](https://github.com/wineerteam/DSA-LeetCode/tree/master/1388-pizza-with-3n-slices) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/wineerteam/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/wineerteam/DSA-LeetCode/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/wineerteam/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/wineerteam/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/wineerteam/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/wineerteam/DSA-LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/wineerteam/DSA-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -656,4 +658,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/wineerteam/DSA-LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/wineerteam/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/wineerteam/DSA-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/wineerteam/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
