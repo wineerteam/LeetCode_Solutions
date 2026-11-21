@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/wineerteam/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/wineerteam/DSA-LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/wineerteam/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/wineerteam/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/wineerteam/DSA-LeetCode/tree/master/0062-unique-paths) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/wineerteam/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/wineerteam/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/wineerteam/DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0044-wildcard-matching](https://github.com/wineerteam/DSA-LeetCode/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/wineerteam/DSA-LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/wineerteam/DSA-LeetCode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/wineerteam/DSA-LeetCode/tree/master/0093-restore-ip-addresses) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/wineerteam/DSA-LeetCode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/wineerteam/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/wineerteam/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/wineerteam/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/wineerteam/DSA-LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/wineerteam/DSA-LeetCode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/wineerteam/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/wineerteam/DSA-LeetCode/tree/master/0509-fibonacci-number) |
