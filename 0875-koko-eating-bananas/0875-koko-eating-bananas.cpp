@@ -1,41 +1,27 @@
- 
 class Solution {
-    bool check(long long x,long  long h,vector<int>& arr){
-        long long sum=0;
-        long long cnt=0;
-        for(int i=0; i<arr.size(); i++){
-       
-               cnt=arr[i]/x;
-               long long rem=arr[i]%x;
-               if( rem>0) cnt++;
-            
-                sum+=cnt;
-            if( sum>h) return false;
+    bool check(vector<int>&arr,int mid, int h){
+        
+        int ch=0;
+        for(int &x:arr){
+            ch +=x/mid;
+            if(x%mid !=0)ch++;
         }
-           
-        return sum<=h;
+        return ch<=h;
     }
 public:
-    int minEatingSpeed(vector<int>& arr, long long h) {
-
-        long long lo=1;
-        long long hi=*max_element(arr.begin(),arr.end());
-
-        long long ans=LLONG_MAX;
-    
-        while(lo<=hi){
-
-            long long mid=lo+(hi-lo)/2;
-            
-            if( check(mid,h,arr)){
-              if (ans>mid) ans=mid;
-               hi=mid-1;
-            }
-            else{
-                   
-                    lo=mid+1;
-            }
+    int minEatingSpeed(vector<int>& arr, int h) {
+        int l=1;
+        int r=*max_element(arr.begin(),arr.end());
+        
+        while(l<r){
+           int mid=l+(r-l)/2;
+           if( check(arr,mid,h)){
+            r=mid;
+           }
+           else{
+            l=mid+1;
+           }
         }
-        return ans;
+        return l;
     }
 };
