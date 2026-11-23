@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/wineerteam/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/wineerteam/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/wineerteam/DSA-LeetCode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/wineerteam/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/wineerteam/DSA-LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/wineerteam/DSA-LeetCode/tree/master/0053-maximum-subarray) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/wineerteam/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/wineerteam/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/wineerteam/DSA-LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/wineerteam/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/wineerteam/DSA-LeetCode/tree/master/0055-jump-game) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/wineerteam/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/wineerteam/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/wineerteam/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/wineerteam/DSA-LeetCode/tree/master/0392-is-subsequence) |
 | [0763-partition-labels](https://github.com/wineerteam/DSA-LeetCode/tree/master/0763-partition-labels) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/wineerteam/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/wineerteam/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/wineerteam/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/wineerteam/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/wineerteam/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/wineerteam/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Recursion
 |  |
