@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/wineerteam/DSA-LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/wineerteam/DSA-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wineerteam/DSA-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/wineerteam/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/wineerteam/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/wineerteam/DSA-LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/0213-house-robber-ii) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/wineerteam/DSA-LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/wineerteam/DSA-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/wineerteam/DSA-LeetCode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/wineerteam/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/wineerteam/DSA-LeetCode/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/wineerteam/DSA-LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/wineerteam/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/wineerteam/DSA-LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/wineerteam/DSA-LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/wineerteam/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0473-matchsticks-to-square](https://github.com/wineerteam/DSA-LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/wineerteam/DSA-LeetCode/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
