@@ -20,7 +20,7 @@ class Solution {
 public:
     vector<vector<int>> subsets(vector<int>& arr) {
         vector<int>temp;
-        solve(arr,0,temp)
+        solve(arr,0,temp);
         return ans;
         
     }
