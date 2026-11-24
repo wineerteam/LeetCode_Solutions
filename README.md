@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/wineerteam/DSA-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/wineerteam/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/wineerteam/DSA-LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/wineerteam/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/wineerteam/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/wineerteam/DSA-LeetCode/tree/master/0035-search-insert-position) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/wineerteam/DSA-LeetCode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/wineerteam/DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/wineerteam/DSA-LeetCode/tree/master/0268-missing-number) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/wineerteam/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/wineerteam/DSA-LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/wineerteam/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/wineerteam/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/wineerteam/DSA-LeetCode/tree/master/0392-is-subsequence) |
