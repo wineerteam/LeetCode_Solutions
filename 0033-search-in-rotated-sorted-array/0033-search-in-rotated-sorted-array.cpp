@@ -1,38 +1,46 @@
 class Solution {
+    int solve(vector<int>&arr){
+        int n=arr.size();
+      int l=0,r=n-1;
+      while(l<r){
+        int mid=l+(r-l)/2;
+        if(arr[mid]>arr[r]){
+            l=mid+1;
+        }
+        else{
+            r=mid;
+        }
+      }  
+        return r;
+    }
+    int bs(int l, int r, vector<int>& arr,int tar){
+        int ans=-1;
+        while(l<=r){
+
+            int mid=l+(r-l)/2;
+            if(arr[mid]==tar){
+            ans= mid;
+            break;
+            }
+            else if( arr[mid]>tar)r=mid-1;
+            else
+             l=mid+1;
+        }
+        return ans;
+    }
 public:
     int search(vector<int>& arr, int tar) {
+        
+int n=arr.size();
+// first we find pivot or min 
+int pivot=solve(arr);
+int idx=bs(0,pivot-1,arr,tar);
 
-        int lo=0;
-        int hi=arr.size()-1;
-        while(lo<=hi){
+  if( idx !=-1)return idx;
 
-            int mid=lo+(hi-lo)/2;
+  idx=bs(pivot,n-1,arr,tar);
+  
+  return idx;
 
-            if(arr[lo]<=arr[mid]){
-
-               if(tar>=arr[lo]&& tar<=arr[mid]){
-                if( arr[mid]==tar)
-                return mid;
-
-                else
-                   hi=mid-1;
-               }
-               else
-                  lo=mid+1;
-
-            }
-            else { //  
-                     if( tar>=arr[mid]&& tar<=arr[hi]){
-                        if( tar==arr[mid])
-                        return mid;
-                        else
-                            lo=mid+1;
-                     }
-                     else
-                       hi=mid-1;
-
-            }
-        }
-       return -1; 
     }
 };
