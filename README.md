@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/wineerteam/DSA-LeetCode/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/wineerteam/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/1463-cherry-pickup-ii) |
+| [1771-maximize-palindrome-length-from-subsequences](https://github.com/wineerteam/DSA-LeetCode/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/wineerteam/DSA-LeetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/wineerteam/DSA-LeetCode/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/wineerteam/DSA-LeetCode/tree/master/3196-maximize-total-cost-of-alternating-subarrays) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/wineerteam/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/wineerteam/DSA-LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/wineerteam/DSA-LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1771-maximize-palindrome-length-from-subsequences](https://github.com/wineerteam/DSA-LeetCode/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/wineerteam/DSA-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/wineerteam/DSA-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/wineerteam/DSA-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
