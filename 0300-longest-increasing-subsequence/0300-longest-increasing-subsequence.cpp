@@ -1,7 +1,7 @@
 class Solution {
 
     int solve(vector<int>&arr, int i,vector<int>&dp){
-        int ans=0;
+        int ans=1;
         if(dp[i] !=-1)return dp[i];
         for(int j=0; j<i; j++){
             if(arr[i]>arr[j]){
@@ -18,6 +18,6 @@ public:
         for(int i=0; i<n; i++){
             ans=max(ans,solve(arr,i,dp));
         }        
-        return ans+1;
+        return ans;
     }
 };
