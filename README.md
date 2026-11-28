@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/wineerteam/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/wineerteam/DSA-LeetCode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/wineerteam/DSA-LeetCode/tree/master/0377-combination-sum-iv) |
+| [0413-arithmetic-slices](https://github.com/wineerteam/DSA-LeetCode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/wineerteam/DSA-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/wineerteam/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/wineerteam/DSA-LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/wineerteam/DSA-LeetCode/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/wineerteam/DSA-LeetCode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/wineerteam/DSA-LeetCode/tree/master/0392-is-subsequence) |
+| [0413-arithmetic-slices](https://github.com/wineerteam/DSA-LeetCode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/wineerteam/DSA-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/wineerteam/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/wineerteam/DSA-LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/wineerteam/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/wineerteam/DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/wineerteam/DSA-LeetCode/tree/master/0413-arithmetic-slices) |
 | [2090-k-radius-subarray-averages](https://github.com/wineerteam/DSA-LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/wineerteam/DSA-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/wineerteam/DSA-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
